@@ -6,7 +6,7 @@ class LANGUAGE(Enum):
     French = "fr"
     German = "de"
     Italian = "it"
-    Japan = "jp"
+    Japanes = "jp"
     Chinese = "cn"
     Portuguese = "pt"
 

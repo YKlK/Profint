@@ -199,7 +199,7 @@ if __name__ == "__main__":
             busqueda="monitor",
             categoria=CATEGORY.Computers,
             idioma=LANGUAGE.English,
-            marca="samsung",
+            marca="acer",
             start_page=1,
             end_page=10
         )
